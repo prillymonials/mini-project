@@ -1,0 +1,143 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(90deg, #fdaa0b, #ffd45d 25%, #ffd45d 75%, #fdaa0b);  
+}
+
+.rank-content .rank-header {
+  position: relative;
+}
+
+.app-fit-image > img {
+  width: 100%;
+}
+
+.rank-content .rank-header h2 {
+  margin: 0;
+}
+
+.top-ten-title {
+  font-weight: bolder;
+  font-size: 3rem;
+  padding: 3rem 0 0.5rem 0;
+  text-align: center;
+  color: white;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid white;
+}
+
+@media screen and (max-width: 768px) {
+  .rank-content .rank-header .rank-badge h2 {
+    font-size: 1.2rem;
+  }
+
+  .rank-content .rank-header .rank-no-container {
+    width: 50%;
+  }
+}
+
+.rank-content .rank-header .rank-no-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(90deg, rgba(220, 220, 220, 0.8), rgba(0, 0, 0, 0));
+  height: 7rem;
+  width: 40%;
+}
+
+
+.top-ten-list .rank-content .rank-header .rank-no-container {
+  height: 4.5rem;
+}
+
+.rank-content .rank-header .rank-no {
+  position: absolute;
+  top: 0;
+  left: 0.7em;
+}
+
+.top-ten-list .rank-content .rank-header .rank-no h1 {
+  font-size: 4.5rem;
+  line-height: 4.5rem;
+}
+
+.rank-content .rank-header .rank-no h1 {
+  color: white;
+  font-weight: 900;
+  font-size: 7rem;
+  line-height: 7rem;
+}
+
+.rank-content .rank-header .rank-badge {
+  position: absolute;
+  top: 0.2em;
+  right: 0.5em;
+}
+
+.top-ten-list .rank-content .rank-header .rank-title-container {
+  height: 2.5rem;
+}
+
+.rank-content .rank-header .rank-title-container {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: black;
+  opacity: 0.65;
+  filter: opacity(0.65);
+  width: 100%;
+  height: 3.5rem;
+}
+
+.top-ten-list .rank-content .rank-header .rank-title {
+  font-size: 1.5rem;
+  bottom: 0;
+}
+
+.rank-content .rank-header .rank-title {
+  position: absolute;
+  color: white;
+  bottom: 0.1em;
+  left: 0.4em;
+  font-weight: bolder;
+}
+
+.restaurant-detail .restaurant-detail-header {
+  margin-top: 1.5em;
+}
+
+.restaurant-detail .restaurant-detail-header .restaurant-detail-back {
+  background: transparent;
+}
+
+.restaurant-detail .restaurant-detail-image {
+  margin-top: 1em;
+  background: white;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.restaurant-detail .restaurant-detail-overview {
+  margin-top: 1.5em;
+  padding: 0.1em;
+  background: white;
+}
+
+.restaurant-detail .restaurant-detail-list {
+  margin-bottom: 1rem;
+}
+
+.restaurant-detail .restaurant-detail-list p {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.restaurant-detail .restaurant-detail-list small {
+  color: #888;
+  font-size: 1em;
+}
+
+.form-reservation {
+  margin-top: 1em;
+}

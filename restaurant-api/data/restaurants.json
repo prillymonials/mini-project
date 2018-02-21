@@ -1,0 +1,86 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "id": 103,
+      "rank": 1,
+      "name": "McDonald's",
+      "total_like": 587585,
+      "rating": 4.82,
+      "image": "\/public\/img\/f9e8f16a-d2f1-42e7-890d-520eb847c92d.jpg"
+    },
+    {
+      "id": 545,
+      "rank": 2,
+      "name": "Subway",
+      "total_like": 397401,
+      "rating": 4.59,
+      "image": "\/public\/img\/93c3060f-2ca3-4024-8ce2-6dadcae24de6.jpg"
+    },
+    {
+      "id": 131,
+      "rank": 3,
+      "name": "Wendy's",
+      "total_like": 255872,
+      "rating": 4.31,
+      "image": "\/public\/img\/d0fa535c-22ed-4178-bbbd-2f7ce8fa2313.jpg"
+    },
+    {
+      "id": 380,
+      "rank": 4,
+      "name": "Taco Bell",
+      "total_like": 199821,
+      "rating": 4.2,
+      "image": "\/public\/img\/9f1aa2b3-9b6d-4b80-9f99-2b2e593160dc.jpg"
+    },
+    {
+      "id": 221,
+      "rank": 5,
+      "name": "Burger King",
+      "total_like": 165209,
+      "rating": 4.07,
+      "image": "\/public\/img\/9caa5c70-0140-4c7f-9081-2b90fc7b41d7.jpg"
+    },
+    {
+      "id": 482,
+      "rank": 6,
+      "name": "Pizza Hut",
+      "total_like": 120882,
+      "rating": 3.98,
+      "image": "\/public\/img\/43d84d81-a7bd-4197-a8c8-19841fe9132c.jpg"
+    },
+    {
+      "id": 712,
+      "rank": 7,
+      "name": "KFC",
+      "total_like": 98221,
+      "rating": 3.71,
+      "image": "\/public\/img\/1538ade4-2238-4c2e-b1a1-13288aa3d41d.jpg"
+    },
+    {
+      "id": 762,
+      "rank": 8,
+      "name": "Carl's Jr.",
+      "total_like": 92972,
+      "rating": 3.63,
+      "image": "\/public\/img\/ef5f5257-07c2-4412-af9d-2b161cc18112.jpg"
+    },
+    {
+      "id": 702,
+      "rank": 9,
+      "name": "Wingstop",
+      "total_like": 86210,
+      "rating": 3.25,
+      "image": "\/public\/img\/4ed5cf93-522e-434c-b851-a6b333ea6ee8.png"
+    },
+    {
+      "id": 491,
+      "rank": 10,
+      "name": "Domino's",
+      "total_like": 80872,
+      "rating": 3.17,
+      "image": "\/public\/img\/8df3c984-c94a-4659-baa4-67c097c2e1f1.jpg"
+    }
+  ]
+}
+
